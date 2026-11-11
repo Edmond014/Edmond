@@ -3,3 +3,63 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+#header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.img{
+    width: 250px;
+}
+
+.menu{
+    display: flex;
+    gap: 100px;
+}
+
+.logo{
+    color: rgb(65, 65, 255);
+    list-style: none;
+}
+
+.text{
+    display: flex;
+    gap: 50px;
+}
+
+.imgg{
+    color: blue;
+}
+
+.imggg{
+    color: red;
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+}
+
+.h{
+    color: red;
+}
+
+.images{
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+}
+
+.МЕНЮ{
+    height: 100px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
