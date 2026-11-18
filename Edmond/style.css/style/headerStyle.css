@@ -1,0 +1,56 @@
+
+
+#header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.img{
+    width: 250px;
+}
+
+.menu{
+    display: flex;
+    gap: 100px;
+}
+
+
+
+.logo{
+    color: rgb(65, 65, 255);
+    list-style: none;
+}
+
+.logo a{
+    text-decoration: none;
+}
+
+.logo a:hover{
+    color: rgb(255, 0, 0);
+    transition: 2s;
+}
+
+.text{
+    display: flex;
+    gap: 50px;
+}
+
+.imgg{
+    color: blue;
+}
+
+.imggg{
+    color: red;
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+}
+
+.h{
+    color: red;
+}
