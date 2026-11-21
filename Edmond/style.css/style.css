@@ -96,3 +96,20 @@
 .t{
     
 }
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:1450px){
+    .menu a{
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+    }
+}
